@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Teko|Abel");
+
+
+h1 {
+  font-size: 50px;
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+}
+
+#motto {
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+a {
+  color: white;
+}
+
+.sidenav {
+  background-color: #e6e6e6;
+  /* position: fixed; */
+}
+
+#lnk {
+  text-align: left;
+  padding-right: 10px;
+}
